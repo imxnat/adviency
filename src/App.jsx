@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Adviency Calendar</h1>
+      <h1>Adviency Calendar!</h1>
     </div>
   )
 }
