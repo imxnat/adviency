@@ -1,16 +1,4 @@
 # Adviency Challenge of small React Apps - 2022
 
-- Day 1
 - Day 2
-- Day 3
-- Day 4
-- Day 5
-- Day 6
-- Day 7
-- Day 8
-- Day 9
-- Day 10
-- Day 11
-- Day 12
-- Day 13
-- Day 14
+Nuestra app se ve muy poco navideña, demosle unos colores más lindos, rojo, verde, amarillo! Podemos ponernos creativos con lo que queramos!

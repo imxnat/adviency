@@ -1,3 +1,4 @@
+import GiftList from "./components/GiftList"
 
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Adviency Calendar</h1>
+      <GiftList/>
     </div>
   )
 }
